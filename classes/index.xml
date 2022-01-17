@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources for current courses on SpaSES Lab</title>
+    <link>https://spaseslab.com/classes/</link>
+    <description>Recent content in Resources for current courses on SpaSES Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/classes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro to Spatial Data in R</title>
+      <link>https://spaseslab.com/classes/isdr/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/classes/isdr/</guid>
+      <description>Course Description     Spatial data are ubiquitous and form the basis for many of our inquiries into social, ecological, and evolutionary processes. As such, developing the skills necessary for incorporating spatial data into reproducible statistical workflows is critical. In this course, we will introduce the core components of manipulating spatial data within the R statistical environment including managing vector and raster data, projections, extraction of data values, interpolation, and plotting.</description>
+    </item>
+    
+  </channel>
+</rss>
