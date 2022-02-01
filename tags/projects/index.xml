@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SpaSES Lab Projects on SpaSES Lab</title>
-    <link>https://spaseslab.com/project/</link>
-    <description>Recent content in SpaSES Lab Projects on SpaSES Lab</description>
+    <title>projects on SpaSES Lab</title>
+    <link>https://spaseslab.com/tags/projects/</link>
+    <description>Recent content in projects on SpaSES Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spatial Models of Conservation Occurrence</title>
       <link>https://spaseslab.com/project/occurrence/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://spaseslab.com/project/occurrence/</guid>
       <description>Conservation is both an outcome (preventing species extinction or the loss of ecosystem function) and action that society takes to achieve those outcomes. Years of conservation planning research has been devoted to trying to ensure that we take action in the places the &amp;lsquo;need it most&amp;rsquo;. Despite the fact that individuals, organizations, and nation-states continue to devote resources to conservation (the action), many species and ecosystems remain at-risk (the outcome). We combine datasets describing people, politics, economics, institutions, and the environment with Bayesian spatial models to try and understand the enabling conditions that promote conservation as an action and how their alignment (or not) with ecological priorities affects outcomes for nature and people.</description>
-    </item>
-    
-    <item>
-      <title>Rewilding and transformative governance</title>
-      <link>https://spaseslab.com/project/rewilding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spaseslab.com/project/rewilding/</guid>
-      <description></description>
     </item>
     
   </channel>

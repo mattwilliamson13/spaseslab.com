@@ -38,6 +38,21 @@
     <loc>https://spaseslab.com/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://spaseslab.com/tags/projects/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://spaseslab.com/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://spaseslab.com/project/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://spaseslab.com/project/occurrence/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://spaseslab.com/tags/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://spaseslab.com/categories/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -51,9 +66,6 @@
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://spaseslab.com/classes/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://spaseslab.com/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://spaseslab.com/blog/</loc>
@@ -72,9 +84,6 @@
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://spaseslab.com/blog/fonts/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://spaseslab.com/tags/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://spaseslab.com/collection/</loc>
@@ -137,15 +146,6 @@
     <loc>https://spaseslab.com/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spaseslab.com/categories/package/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://spaseslab.com/project/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://spaseslab.com/project/occurrence/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://spaseslab.com/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
@@ -160,6 +160,8 @@
     <loc>https://spaseslab.com/contributors/</loc>
   </url><url>
     <loc>https://spaseslab.com/license/</loc>
+  </url><url>
+    <loc>https://spaseslab.com/categories/package/</loc>
   </url><url>
     <loc>https://spaseslab.com/people/</loc>
   </url><url>

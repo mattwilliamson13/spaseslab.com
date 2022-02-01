@@ -6,7 +6,7 @@
     <description>Recent content in SpaSES Lab @ Boise State on SpaSES Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://spaseslab.com/collection/day02/01-netlify/</link>
@@ -116,6 +116,15 @@ install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you us
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>Spatial Models of Conservation Occurrence</title>
+      <link>https://spaseslab.com/project/occurrence/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/project/occurrence/</guid>
+      <description>Conservation is both an outcome (preventing species extinction or the loss of ecosystem function) and action that society takes to achieve those outcomes. Years of conservation planning research has been devoted to trying to ensure that we take action in the places the &amp;lsquo;need it most&amp;rsquo;. Despite the fact that individuals, organizations, and nation-states continue to devote resources to conservation (the action), many species and ecosystems remain at-risk (the outcome). We combine datasets describing people, politics, economics, institutions, and the environment with Bayesian spatial models to try and understand the enabling conditions that promote conservation as an action and how their alignment (or not) with ecological priorities affects outcomes for nature and people.</description>
     </item>
     
     <item>
@@ -247,15 +256,6 @@ Hello! 👋 hello
       
       <guid>https://spaseslab.com/blog/built-in-contact-form/</guid>
       <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
-    </item>
-    
-    <item>
-      <title>Spatial Models of Conservation Occurrence</title>
-      <link>https://spaseslab.com/project/occurrence/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://spaseslab.com/project/occurrence/</guid>
-      <description></description>
     </item>
     
     <item>
