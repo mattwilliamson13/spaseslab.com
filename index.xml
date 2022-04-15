@@ -6,7 +6,7 @@
     <description>Recent content in SpaSES Lab @ Boise State on SpaSES Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://spaseslab.com/collection/day02/01-netlify/</link>
@@ -119,6 +119,15 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
+      <title>Introducing connectivity models</title>
+      <link>https://spaseslab.com/blog/intro-graphs/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/blog/intro-graphs/</guid>
+      <description>Graphs and wildlife connectivity Connectivity describes the degree to which the landscape allows for the movement of genes, individuals, or species to traverse the landscape in order to access resources, find mates, or avoid mortality. As habitats have become increasingly fragmented, conservation practitioners are increasingly focused on developing strategies for maintaining or restoring connectivity between existing habitats or protected areas.</description>
+    </item>
+    
+    <item>
       <title>Conservation Archetypes of Western North America</title>
       <link>https://spaseslab.com/project/archetypes/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -152,17 +161,6 @@ My content section is: collection  My layout is: single-series   part 2!     doe
       
       <guid>https://spaseslab.com/classes/isdr/</guid>
       <description>Course Description     Spatial data are ubiquitous and form the basis for many of our inquiries into social, ecological, and evolutionary processes. As such, developing the skills necessary for incorporating spatial data into reproducible statistical workflows is critical. In this course, we will introduce the core components of manipulating spatial data within the R statistical environment including managing vector and raster data, projections, extraction of data values, interpolation, and plotting.</description>
-    </item>
-    
-    <item>
-      <title>Set up your social</title>
-      <link>https://spaseslab.com/blog/social/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://spaseslab.com/blog/social/</guid>
-      <description>There are five places where you can choose to show social icons. Here is the tl;dr:
- site header (set in config.toml), site footer (set in config.toml),  homepage (set in content/_index.md),  about page in the sidebar (set in content/about/sidebar/index.md), and  contact page (set in content/form/contact.md).  Read on to learn how to set up your social icons, and how to show/hide them.
-Configure social     Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
     </item>
     
     <item>
