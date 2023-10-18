@@ -6,7 +6,7 @@
     <description>Recent content on SpaSES Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://spaseslab.com/collection/day02/01-netlify/</link>
@@ -84,6 +84,15 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
+      <title>Interdisciplinarity and the Brickyard</title>
+      <link>https://spaseslab.com/blog/brickyard-revisited/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/blog/brickyard-revisited/</guid>
+      <description>div.figure { display: table; float: right; padding-left: 30px; padding-bottom: 10px; } div.figure p { display: table-caption; caption-side: bottom; padding-left: 30px; }  About twenty years ago, a mentor recommended B.K. Forscher’s 1963 essay Chaos in the Brickyard as I was thinking about what it meant to be a graduate student. Since then, I’ve probably read it another 15 times. Sure, the language is a bit dated, but I think the general concern that scientists (especially new scientists) have become overly focused on “bricks” and not “structures” is an important one - and one that seems more relevant today than it might have 60 years ago.</description>
+    </item>
+    
+    <item>
       <title>Now Hiring: One, Funded PhD Student</title>
       <link>https://spaseslab.com/recruit/phd2023/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
@@ -117,7 +126,7 @@ My content section is: collection  My layout is: single-series   part 2!     doe
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://spaseslab.com/project/resistance/</guid>
-      <description>coming soon</description>
+      <description>Conserving species&#39; ability to traverse the landscape is vital for maintaining biodiversity in the face of global change. Connectivity conservation requires identifying important pathways for species&#39; movements and aligning societal support for conservation of those pathways. Contemporary connectivity analyses emphasize the impacts of topography, vegetation and human footprint on species&#39; movements; but largely ignore the role that attitudes, economics and institutions play in practitioners&#39; ability to conserve those movements. Implementation resistance is analogous to biophysical resistance that combines social, economic and institutional factors that promote or impede connectivity conservation.</description>
     </item>
     
     <item>

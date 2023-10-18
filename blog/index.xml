@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The SpaSES Blog on SpaSES Lab</title>
+    <title>The SPASES Blog on SpaSES Lab</title>
     <link>https://spaseslab.com/blog/</link>
-    <description>Recent content in The SpaSES Blog on SpaSES Lab</description>
+    <description>Recent content in The SPASES Blog on SpaSES Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interdisciplinarity and the Brickyard</title>
+      <link>https://spaseslab.com/blog/brickyard-revisited/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/blog/brickyard-revisited/</guid>
+      <description>div.figure { display: table; float: right; padding-left: 30px; padding-bottom: 10px; } div.figure p { display: table-caption; caption-side: bottom; padding-left: 30px; }  About twenty years ago, a mentor recommended B.K. Forscher’s 1963 essay Chaos in the Brickyard as I was thinking about what it meant to be a graduate student. Since then, I’ve probably read it another 15 times. Sure, the language is a bit dated, but I think the general concern that scientists (especially new scientists) have become overly focused on “bricks” and not “structures” is an important one - and one that seems more relevant today than it might have 60 years ago.</description>
+    </item>
+    
     <item>
       <title>Introducing connectivity models</title>
       <link>https://spaseslab.com/blog/intro-graphs/</link>
