@@ -13,7 +13,7 @@
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://spaseslab.com/blog/brickyard-revisited/</guid>
-      <description>div.figure { display: table; float: right; padding-left: 30px; padding-bottom: 10px; } div.figure p { display: table-caption; caption-side: bottom; padding-left: 30px; }  About twenty years ago, a mentor recommended B.K. Forscher’s 1963 essay Chaos in the Brickyard as I was thinking about what it meant to be a graduate student. Since then, I’ve probably read it another 15 times. Sure, the language is a bit dated, but I think the general concern that scientists (especially new scientists) have become overly focused on “bricks” and not “structures” is an important one - and one that seems more relevant today than it might have 60 years ago.</description>
+      <description>.my-right-figure { display: table; float: right; padding-left: 30px; padding-bottom: 10px; } .my-right-figure p + p{ display: table-caption; caption-side: bottom; padding-left: 30px } .figure { display: contents; }  .my-left-figure { display: table; float: left; padding-right: 30px; padding-bottom: 10px; } .my-left-figure p { display: table-caption; caption-side: bottom; padding-right: 30px } .figure { display: contents; }  About twenty years ago, a mentor recommended B.K. Forscher’s 1963 essay Chaos in the Brickyard as I was thinking about what it meant to be a graduate student.</description>
     </item>
     
     <item>
