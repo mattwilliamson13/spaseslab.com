@@ -6,7 +6,16 @@
     <description>Recent content in The SPASES Blog on SpaSES Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Geo to Geo</title>
+      <link>https://spaseslab.com/blog/geo-to-geo-01/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/blog/geo-to-geo-01/</guid>
+      <description>.my-right-figure { display: table; float: right; padding-left: 30px; padding-bottom: 10px; } .my-right-figure p + p{ display: table-caption; caption-side: bottom; padding-left: 30px } .figure { display: contents; }  .my-left-figure { display: table; float: left; padding-right: 30px; padding-bottom: 10px; } .my-left-figure p { display: table-caption; caption-side: bottom; padding-right: 30px } .figure { display: contents; }  The Geography-Geology building at the University of Georgia (https://twitter.com/UGAadmissions/status/1398002734742347783)  I completed my undergraduate degree in geology at the University of Georgia, spending countless hours in the shadow of Sanford Stadium in an easily overlooked building.</description>
+    </item>
+    
     <item>
       <title>Interdisciplinarity and the Brickyard</title>
       <link>https://spaseslab.com/blog/brickyard-revisited/</link>
