@@ -6,7 +6,16 @@
     <description>Recent content in The SPASES Blog on SpaSES Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some things to think about before starting a PhD program</title>
+      <link>https://spaseslab.com/blog/phd-advice/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/blog/phd-advice/</guid>
+      <description>.my-right-figure { display: table; float: right; padding-left: 30px; padding-bottom: 10px; } .my-right-figure p + p{ display: table-caption; caption-side: bottom; padding-left: 30px } .figure { display: contents; }  .my-left-figure { display: table; float: left; padding-right: 30px; padding-bottom: 10px; } .my-left-figure p { display: table-caption; caption-side: bottom; padding-right: 30px } .figure { display: contents; }  What is a PhD program? What is it not? A PhD is a doctor of philosophy, even if your area of expertise is biophysical sciences, social sciences, liberal arts, etc.</description>
+    </item>
+    
     <item>
       <title>From Geo to Geo</title>
       <link>https://spaseslab.com/blog/geo-to-geo-01/</link>
