@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks that Last on SpaSES Lab</title>
+    <title>Talks that Last on SPASES Lab</title>
     <link>https://spaseslab.com/talk/</link>
-    <description>Recent content in Talks that Last on SpaSES Lab</description>
+    <description>Recent content in Talks that Last on SPASES Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/talk/index.xml" rel="self" type="application/rss+xml" />

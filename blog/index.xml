@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The SPASES Blog on SpaSES Lab</title>
+    <title>The SPASES Blog on SPASES Lab</title>
     <link>https://spaseslab.com/blog/</link>
-    <description>Recent content in The SPASES Blog on SpaSES Lab</description>
+    <description>Recent content in The SPASES Blog on SPASES Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Birds and birdwatchers</title>
+      <link>https://spaseslab.com/blog/birds-hes/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/blog/birds-hes/</guid>
+      <description>.my-right-figure { display: table; float: right; padding-left: 30px; padding-bottom: 10px; } .my-right-figure p + p{ display: table-caption; caption-side: bottom; padding-left: 30px } .figure { display: contents; }  .my-left-figure { display: table; float: left; padding-right: 30px; padding-bottom: 10px; } .my-left-figure p { display: table-caption; caption-side: bottom; padding-right: 30px } .figure { display: contents; }  I spent last 4th of July volunteering at Intermountain Bird Obseratory’s Lucky Peak Research Station.</description>
+    </item>
+    
     <item>
       <title>Visiting the Resilience Alliance in Norway</title>
       <link>https://spaseslab.com/blog/norway_ra/</link>
@@ -50,7 +59,7 @@ Yes, this particular gathering of researchers had a particular resemblance to su
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://spaseslab.com/blog/intro-graphs/</guid>
-      <description>pre  code.sourceCode { white-space: pre; position: relative; } pre  code.sourceCode  span { display: inline-block; line-height: 1.25; } pre  code.sourceCode  span:empty { height: 1.2em; } .sourceCode { overflow: visible; } code.sourceCode  span { color: inherit; text-decoration: inherit; } div.sourceCode { margin: 1em 0; } pre.sourceCode { margin: 0; } @media screen { div.sourceCode { overflow: auto; } } @media print { pre  code.</description>
+      <description>pre  code.sourceCode { white-space: pre; position: relative; } pre  code.sourceCode  span { line-height: 1.25; } pre  code.sourceCode  span:empty { height: 1.2em; } .sourceCode { overflow: visible; } code.sourceCode  span { color: inherit; text-decoration: inherit; } div.sourceCode { margin: 1em 0; } pre.sourceCode { margin: 0; } @media screen { div.sourceCode { overflow: auto; } } @media print { pre  code.</description>
     </item>
     
   </channel>
