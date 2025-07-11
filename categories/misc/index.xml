@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>misc on SPASES Lab</title>
+    <link>https://spaseslab.com/categories/misc/</link>
+    <description>Recent content in misc on SPASES Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/categories/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Paper: Proximity, politics, and preferences: Spatial and contextual patterns in management opinions for an imperiled multifunctional landscape</title>
+      <link>https://spaseslab.com/blog/new-paper-netherton/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/blog/new-paper-netherton/</guid>
+      <description>We had a cool paper come out last week. Dr. Haley Netherton-Morrison, a former HES PhD student led an analysis looking at the role of space and familiarity in shaping people’s preferences for addressing sagebrush conservation issues. This was one of the first times we’ve applied Multi-level Regression with Poststratification (MRP) using recruited survey data and Haley did a tremendous job trying to tease out how where we live helps shape our perspectives on how we’d like to see it managed (also she makes great figures).</description>
+    </item>
+    
+    <item>
+      <title>Birds and birdwatchers</title>
+      <link>https://spaseslab.com/blog/birds-hes/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/blog/birds-hes/</guid>
+      <description>.my-right-figure { display: table; float: right; padding-left: 30px; padding-bottom: 10px; } .my-right-figure p + p{ display: table-caption; caption-side: bottom; padding-left: 30px } .figure { display: contents; }  .my-left-figure { display: table; float: left; padding-right: 30px; padding-bottom: 10px; } .my-left-figure p { display: table-caption; caption-side: bottom; padding-right: 30px } .figure { display: contents; }  I spent last 4th of July volunteering at Intermountain Bird Obseratory’s Lucky Peak Research Station.</description>
+    </item>
+    
+  </channel>
+</rss>

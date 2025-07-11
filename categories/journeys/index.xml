@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>journeys on SPASES Lab</title>
+    <link>https://spaseslab.com/categories/journeys/</link>
+    <description>Recent content in journeys on SPASES Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/categories/journeys/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visiting the Resilience Alliance in Norway</title>
+      <link>https://spaseslab.com/blog/norway_ra/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/blog/norway_ra/</guid>
+      <description>.my-right-figure { display: table; float: right; padding-left: 30px; padding-bottom: 10px; } .my-right-figure p + p{ display: table-caption; caption-side: bottom; padding-left: 30px } .figure { display: contents; }  .my-left-figure { display: table; float: left; padding-right: 30px; padding-bottom: 10px; } .my-left-figure p { display: table-caption; caption-side: bottom; padding-right: 30px } .figure { display: contents; }  “So you’re going to like a week of nerd camp?” - my husband
+Yes, this particular gathering of researchers had a particular resemblance to summer camp, as we stayed in cabins, meals were shared around long tables, and we even took a field trip.</description>
+    </item>
+    
+    <item>
+      <title>From Geo to Geo</title>
+      <link>https://spaseslab.com/blog/geo-to-geo-01/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/blog/geo-to-geo-01/</guid>
+      <description>.my-right-figure { display: table; float: right; padding-left: 30px; padding-bottom: 10px; } .my-right-figure p + p{ display: table-caption; caption-side: bottom; padding-left: 30px } .figure { display: contents; }  .my-left-figure { display: table; float: left; padding-right: 30px; padding-bottom: 10px; } .my-left-figure p { display: table-caption; caption-side: bottom; padding-right: 30px } .figure { display: contents; }  The Geography-Geology building at the University of Georgia (https://twitter.com/UGAadmissions/status/1398002734742347783)  I completed my undergraduate degree in geology at the University of Georgia, spending countless hours in the shadow of Sanford Stadium in an easily overlooked building.</description>
+    </item>
+    
+  </channel>
+</rss>

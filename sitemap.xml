@@ -32,6 +32,12 @@
     <loc>https://spaseslab.com/</loc>
     <lastmod>2025-07-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://spaseslab.com/categories/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://spaseslab.com/categories/misc/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://spaseslab.com/blog/new-paper-netherton/</loc>
     <lastmod>2025-07-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,8 +47,14 @@
     <loc>https://spaseslab.com/blog/birds-hes/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://spaseslab.com/categories/journeys/</loc>
+    <lastmod>2024-06-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://spaseslab.com/blog/norway_ra/</loc>
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://spaseslab.com/categories/academiclife/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://spaseslab.com/blog/phd-advice/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
@@ -60,6 +72,9 @@
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://spaseslab.com/blog/intro-graphs/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://spaseslab.com/categories/r/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://spaseslab.com/project/archetypes/</loc>
@@ -80,16 +95,10 @@
     <loc>https://spaseslab.com/tags/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spaseslab.com/categories/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://spaseslab.com/categories/classes/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://spaseslab.com/classes/isdr/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://spaseslab.com/categories/r/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://spaseslab.com/classes/</loc>

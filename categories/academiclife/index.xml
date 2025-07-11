@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>academicLife on SPASES Lab</title>
+    <link>https://spaseslab.com/categories/academiclife/</link>
+    <description>Recent content in academicLife on SPASES Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/categories/academiclife/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some things to think about before starting a PhD program</title>
+      <link>https://spaseslab.com/blog/phd-advice/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/blog/phd-advice/</guid>
+      <description>.my-right-figure { display: table; float: right; padding-left: 30px; padding-bottom: 10px; } .my-right-figure p + p{ display: table-caption; caption-side: bottom; padding-left: 30px } .figure { display: contents; }  .my-left-figure { display: table; float: left; padding-right: 30px; padding-bottom: 10px; } .my-left-figure p { display: table-caption; caption-side: bottom; padding-right: 30px } .figure { display: contents; }  What is a PhD program? What is it not? A PhD is a doctor of philosophy, even if your area of expertise is biophysical sciences, social sciences, liberal arts, etc.</description>
+    </item>
+    
+    <item>
+      <title>Interdisciplinarity and the Brickyard</title>
+      <link>https://spaseslab.com/blog/brickyard-revisited/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/blog/brickyard-revisited/</guid>
+      <description>.my-right-figure { display: table; float: right; padding-left: 30px; padding-bottom: 10px; } .my-right-figure p + p{ display: table-caption; caption-side: bottom; padding-left: 30px } .figure { display: contents; }  .my-left-figure { display: table; float: left; padding-right: 30px; padding-bottom: 10px; } .my-left-figure p { display: table-caption; caption-side: bottom; padding-right: 30px } .figure { display: contents; }  About twenty years ago, a mentor recommended B.K. Forscher’s 1963 essay Chaos in the Brickyard as I was thinking about what it meant to be a graduate student.</description>
+    </item>
+    
+  </channel>
+</rss>
