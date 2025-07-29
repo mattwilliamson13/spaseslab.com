@@ -6,7 +6,16 @@
     <description>Recent content in Categories on SPASES Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://spaseslab.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>academicLife</title>
+      <link>https://spaseslab.com/categories/academiclife/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://spaseslab.com/categories/academiclife/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>misc</title>
       <link>https://spaseslab.com/categories/misc/</link>
@@ -22,15 +31,6 @@
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://spaseslab.com/categories/journeys/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>academicLife</title>
-      <link>https://spaseslab.com/categories/academiclife/</link>
-      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://spaseslab.com/categories/academiclife/</guid>
       <description></description>
     </item>
     
